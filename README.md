@@ -77,7 +77,7 @@ Allows ride payments and viewing payment history for users and drivers.
 - 🧑‍💻 **Admin**: Manage users, drivers, bookings, and alerts  
 - 👮 **Police**: View location-based alerts and respond instantl### Screenshots
 
-![User Booking Screen]https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b  
+![User Booking Screen](https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b)
 *User books a cab easily*
 
 ![Live Tracking Screen](path/to/tracking-screen.png)  
