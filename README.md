@@ -74,14 +74,17 @@ Allows ride payments and viewing payment history for users and drivers.
 - 👩 **User**: Book cab ➝ Track ride ➝ Trigger/receive alerts  
 - 🚖 **Driver**: Accept booking ➝ Navigate ➝ Complete payment  
 - 🧑‍💻 **Admin**: Manage users, drivers, bookings, and alerts  
-- 👮 **Police**: View location-based alerts and respond instantl
+- 👮 **Police**: View location-based alerts and respond instantly
+
+### Screenshots
 
 <p><b>User books a cab easily</b></p>
-<img src="https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b" width="400"/>
+<img src="https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b" width="300"/>
 
 <p><b>Real-time location updates</b></p>
-<img src="https://github.com/user-attachments/assets/69b0d0e0-54cd-4b10-8871-623fcf4790c6" width="400"/>
+<img src="https://github.com/user-attachments/assets/91c393d2-29c1-41b3-b6cf-fb8737c45996" width="300"/>
 
-*Admin manages drivers and users*
-![Admin Dashboard](path/to/admin-dashboard.png)  
+<p><b>Admin manages drivers and users</b></p>
+<img src="https://github.com/user-attachments/assets/69b0d0e0-54cd-4b10-8871-623fcf4790c6" width="300"/>
+
 
