@@ -2,7 +2,6 @@
 
 Women Safety Cab Booking is a smart and secure transportation system developed to ensure women's safety during cab travel, especially at night. It processes trip data in real-time, monitors routes using GPS, and sends alerts to emergency contacts and nearby police if suspicious behavior is detected.
 
----
 
 ## 🚀 Features
 
@@ -24,7 +23,7 @@ Separate modules for Users, Drivers, Admin, and Patrol with customized access an
 📊 **Payment Integration**  
 Allows ride payments and viewing payment history for users and drivers.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,7 @@ Allows ride payments and viewing payment history for users and drivers.
 - **Web Server**: WAMP Server  
 - **Languages**: Java, PHP, SQL, HTML, CSS
 
----
+
 
 ## ⚙️ Installation
  - ### Clone the repository
@@ -49,7 +48,7 @@ Allows ride payments and viewing payment history for users and drivers.
  - ### Access the application
     Open the Admin/Police panel at http://localhost/Women-Safety-Cab-Booking-System/ and run the Android app on your device or emulator.
 
-   ---
+  
    
 ## ✨ How It Works
 
@@ -68,26 +67,23 @@ Allows ride payments and viewing payment history for users and drivers.
 - **Admin** manages driver/user registrations and ride records.
 - **Police panel** receives alerts for immediate response.
 
----
+
 
 ## 📜 Usage
 
 - 👩 **User**: Book cab ➝ Track ride ➝ Trigger/receive alerts  
 - 🚖 **Driver**: Accept booking ➝ Navigate ➝ Complete payment  
 - 🧑‍💻 **Admin**: Manage users, drivers, bookings, and alerts  
-- 👮 **Police**: View location-based alerts and respond instantl### Screenshots
+- 👮 **Police**: View location-based alerts and respond instantl
 
-![User Booking Screen](https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b)
+### Screenshots
+
 *User books a cab easily*
+![User Booking Screen](https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b)
 
-![Live Tracking Screen](path/to/tracking-screen.png)  
 *Real-time location updates*
+![Live Tracking Screen](https://github.com/user-attachments/assets/69b0d0e0-54cd-4b10-8871-623fcf4790c6) 
 
-![Alert Notification](path/to/alert-notification.png)  
-*Emergency alert to contacts*
-
-![Admin Dashboard](path/to/admin-dashboard.png)  
 *Admin manages drivers and users*
+![Admin Dashboard](path/to/admin-dashboard.png)  
 
-![Police Alert Panel](path/to/police-panel.png)  
-*Police receives immediate alerts*
