@@ -3,6 +3,7 @@
 Women Safety Cab Booking is a smart and secure transportation system developed to ensure women's safety during cab travel, especially at night. It processes trip data in real-time, monitors routes using GPS, and sends alerts to emergency contacts and nearby police if suspicious behavior is detected.
 
 
+
 ## 🚀 Features
 
 📍 **Real-Time Location Tracking**  
@@ -76,7 +77,9 @@ Allows ride payments and viewing payment history for users and drivers.
 - 🧑‍💻 **Admin**: Manage users, drivers, bookings, and alerts  
 - 👮 **Police**: View location-based alerts and respond instantly
 
-### Screenshots
+
+
+## Screenshots
 
 <p><b>User books a cab easily</b></p>
 <img src="https://github.com/user-attachments/assets/1d13e0f1-3e34-42c1-9611-f371c06c3f1b" width="300"/>
